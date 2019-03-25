@@ -1,0 +1,33 @@
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\MuniteTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\MuniteTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\nunit.framework.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\Simplify.Resources.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\TimeToTime.exe
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\TimeToTime.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\nunit.framework.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\Simplify.Resources.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\obj\Debug\MuniteTests.csprojResolveAssemblyReference.cache
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\obj\Debug\MuniteTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\obj\Debug\MuniteTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\MuniteTests\bin\Debug\TimeToTime.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\MuniteTests.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\MuniteTests.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\nunit.framework.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\Simplify.Resources.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\TimeToTime.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\TimeToTime.exe.config
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\nunit.framework.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\Simplify.Resources.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\obj\Debug\MuniteTests.csprojAssemblyReference.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\obj\Debug\MuniteTests.csproj.CoreCompileInputs.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\obj\Debug\MuniteTests.csproj.CopyComplete
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\obj\Debug\MuniteTests.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\MuniteTests\obj\Debug\MuniteTests.pdb

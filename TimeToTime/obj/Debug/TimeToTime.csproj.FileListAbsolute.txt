@@ -1,0 +1,32 @@
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\bin\Debug\TimeToTime.exe.config
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\bin\Debug\TimeToTime.XML
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\bin\Debug\TimeToTime.exe
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\bin\Debug\TimeToTime.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.csprojResolveAssemblyReference.cache
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.Form1.resources
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.Properties.Resources.resources
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.csproj.GenerateResource.Cache
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.exe
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\TimeToTime\obj\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.exe.config
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.XML
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csprojAssemblyReference.cache
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.Form1.resources
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.Properties.Resources.resources
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csproj.GenerateResource.cache
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csproj.CoreCompileInputs.cache
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\flasdisk_okay\Projects\16070006140_OkayOnbasi_ConvertorTime\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.exe.config
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.XML
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\bin\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csprojAssemblyReference.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.Form1.resources
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.Properties.Resources.resources
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csproj.GenerateResource.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.csproj.CoreCompileInputs.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\TimeToTime\obj\Debug\TimeToTime.pdb

@@ -1,0 +1,33 @@
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\HourTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\HourTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\nunit.framework.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\Simplify.Resources.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\TimeToTime.exe
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\TimeToTime.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\nunit.framework.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\Simplify.Resources.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\obj\Debug\HourTests.csprojResolveAssemblyReference.cache
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\obj\Debug\HourTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\obj\Debug\HourTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\HourTests\bin\Debug\TimeToTime.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\HourTests.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\HourTests.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\nunit.framework.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\Simplify.Resources.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\TimeToTime.exe
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\TimeToTime.pdb
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\TimeToTime.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\TimeToTime.exe.config
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\nunit.framework.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\Simplify.Resources.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\obj\Debug\HourTests.csprojAssemblyReference.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\obj\Debug\HourTests.csproj.CoreCompileInputs.cache
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\obj\Debug\HourTests.csproj.CopyComplete
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\obj\Debug\HourTests.dll
+C:\Users\okayo\Desktop\16070006140_OkayOnbasi_ConvertorTime\HourTests\obj\Debug\HourTests.pdb

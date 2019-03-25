@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TimeToTime</name>
+    </assembly>
+    <members>
+        <member name="M:TimeToTime.Form1.#ctor">
+            
+             @author Okay
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToSecond(System.Double)">
+            <summary>
+            This is converting from second to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToSecond(System.Double)">
+            <summary>
+            This is converting from munite to secoond
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToSecond(System.Double)">
+            <summary>
+            This is converting from hour to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToSecond(System.Double)">
+            <summary>
+            This is converting from day to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToSecond(System.Double)">
+            <summary>
+            This is converting from week to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToSecond(System.Double)">
+            <summary>
+            This is converting from month to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToSecond(System.Double)">
+            <summary>
+            This is converting from year to second
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToMunite(System.Double)">
+            <summary>
+            This is converting from second to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToMunite(System.Double)">
+            <summary>
+            This is converting from munite to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToMunite(System.Double)">
+            <summary>
+            This is converting from hour to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToMunite(System.Double)">
+            <summary>
+            This is converting from day to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToMunite(System.Double)">
+            <summary>
+            This is converting from week to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToMunite(System.Double)">
+            <summary>
+            This is converting from month to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToMunite(System.Double)">
+            <summary>
+            This is converting from year to munite
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToHour(System.Double)">
+            <summary>
+            This is converting from second to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToHour(System.Double)">
+            <summary>
+            This is converting from munite to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToHour(System.Double)">
+            <summary>
+            This is converting from hour to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToHour(System.Double)">
+            <summary>
+            This is converting from day to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToHour(System.Double)">
+            <summary>
+            This is converting from week to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToHour(System.Double)">
+            <summary>
+            This is converting from month to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToHour(System.Double)">
+            <summary>
+            This is converting from year to hour
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToDay(System.Double)">
+            <summary>
+            This is converting from second to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToDay(System.Double)">
+            <summary>
+            This is converting from munite to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToDay(System.Double)">
+            <summary>
+            This is converting from hour to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToDay(System.Double)">
+            <summary>
+            This is converting from day to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToDay(System.Double)">
+            <summary>
+            This is converting from week to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToDay(System.Double)">
+            <summary>
+            This is converting from month to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToDay(System.Double)">
+            <summary>
+            This is converting from year to day
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToWeek(System.Double)">
+            <summary>
+            This is converting from second to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToWeek(System.Double)">
+            <summary>
+            This is converting from munite to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToWeek(System.Double)">
+            <summary>
+            This is converting from hour to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToWeek(System.Double)">
+            <summary>
+            This is converting from day to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToWeek(System.Double)">
+            <summary>
+            This is converting from week to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToWeek(System.Double)">
+            <summary>
+            This is converting from month to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToWeek(System.Double)">
+            <summary>
+            This is converting from year to week
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToMonth(System.Double)">
+            <summary>
+            This is converting from second to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToMonth(System.Double)">
+            <summary>
+            This is converting from munite to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToMonth(System.Double)">
+            <summary>
+            This is converting from hour to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToMonth(System.Double)">
+            <summary>
+            This is converting from day to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToMonth(System.Double)">
+            <summary>
+            This is converting from week to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToMonth(System.Double)">
+            <summary>
+            This is converting from month to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToMonth(System.Double)">
+            <summary>
+            This is converting from year to month
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.SecondToYear(System.Double)">
+            <summary>
+            This is converting from year to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MuniteToYear(System.Double)">
+            <summary>
+            This is converting from munite to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.HourToYear(System.Double)">
+            <summary>
+            This is converting from hour to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.DayToYear(System.Double)">
+            <summary>
+            This is converting from day to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.WeekToYear(System.Double)">
+            <summary>
+            This is converting from week to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.MonthToYear(System.Double)">
+            <summary>
+            This is converting from month to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.YearToYear(System.Double)">
+            <summary>
+            This is converting from year to year
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TimeToTime.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            This is send to value that will be convert
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:TimeToTime.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:TimeToTime.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:TimeToTime.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:TimeToTime.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:TimeToTime.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:TimeToTime.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:TimeToTime.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
